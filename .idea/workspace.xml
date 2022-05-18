@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Create the spring2022Java repo&#10;Create Day01 and Day02 worksheets">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day03DataTypes.java" afterDir="false" />
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Day03DataTypes creation">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day03ObjectCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day04Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day04Scanner02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day04Scanner03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day02Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day02Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,7 @@
       <recent name="C:\Users\CEM\IdeaProjects\spring2022Java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day03DataTypes">
+  <component name="RunManager" selected="Application.Day04Scanner02">
     <configuration name="Day02Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day02Variables" />
       <module name="spring2022Java" />
@@ -60,8 +62,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day03ObjectCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03ObjectCreation" />
+      <module name="spring2022Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day04Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day04Scanner" />
+      <module name="spring2022Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day04Scanner02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day04Scanner02" />
+      <module name="spring2022Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day04Scanner02" />
+        <item itemvalue="Application.Day04Scanner" />
+        <item itemvalue="Application.Day03ObjectCreation" />
         <item itemvalue="Application.Day03DataTypes" />
         <item itemvalue="Application.Day02Variables" />
       </list>
@@ -83,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652877645881</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day03DataTypes creation">
+      <created>1652891835028</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652891835028</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +144,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create the spring2022Java repo&#10;Create Day01 and Day02 worksheets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create the spring2022Java repo&#10;Create Day01 and Day02 worksheets" />
+    <MESSAGE value="Day03DataTypes creation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day03DataTypes creation" />
   </component>
 </project>
