@@ -9,9 +9,9 @@ public class Day04Scanner02 {
          */
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter the width of the rectangle");
-        double width = scanner.nextInt();
+        double width = scanner.nextDouble();
         System.out.println("Please enter the length of the rectangle");
-        double length = scanner.nextInt();
+        double length = scanner.nextDouble();
 
         System.out.println("Area of the rectangle is: " + width*length);
         System.out.println("Perimeter of the rectangle is: " + 2*(length+width));

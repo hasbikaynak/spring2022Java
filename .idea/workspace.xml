@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Day03DataTypes creation">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day03ObjectCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day04Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day04Scanner02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day04Scanner03.java" afterDir="false" />
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Create Day04Scanner01, Day04Scanner02 and Day04Scanner03">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day04Scanner04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day04Scanner02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day04Scanner02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day04Scanner03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day04Scanner03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,21 +46,7 @@
       <recent name="C:\Users\CEM\IdeaProjects\spring2022Java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day04Scanner02">
-    <configuration name="Day02Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02Variables" />
-      <module name="spring2022Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day03DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day03DataTypes" />
-      <module name="spring2022Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day04Scanner04">
     <configuration name="Day03ObjectCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day03ObjectCreation" />
       <module name="spring2022Java" />
@@ -83,13 +68,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day04Scanner03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day04Scanner03" />
+      <module name="spring2022Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day04Scanner04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day04Scanner04" />
+      <module name="spring2022Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day04Scanner04" />
+        <item itemvalue="Application.Day04Scanner03" />
         <item itemvalue="Application.Day04Scanner02" />
         <item itemvalue="Application.Day04Scanner" />
         <item itemvalue="Application.Day03ObjectCreation" />
-        <item itemvalue="Application.Day03DataTypes" />
-        <item itemvalue="Application.Day02Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652891835028</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create Day04Scanner01, Day04Scanner02 and Day04Scanner03">
+      <created>1652897848103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652897848103</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +151,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create the spring2022Java repo&#10;Create Day01 and Day02 worksheets" />
     <MESSAGE value="Day03DataTypes creation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day03DataTypes creation" />
+    <MESSAGE value="Create Day04Scanner01, Day04Scanner02 and Day04Scanner03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Day04Scanner01, Day04Scanner02 and Day04Scanner03" />
   </component>
 </project>
