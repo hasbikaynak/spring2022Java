@@ -23,3 +23,5 @@ public class Day02Variables {
     static int myInteger2 = 8;
     static double myDouble2 = 24.4;
 }
+
+
