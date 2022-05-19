@@ -8,3 +8,4 @@ public class Day04Scanner {
         System.out.println("Your age is " + age);
     }
 }
+
