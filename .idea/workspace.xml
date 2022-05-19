@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Create Day04Operations">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day05ConcatenationIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day05ModulusConcatenationIf.java" afterDir="false" />
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Create Day05ModulusConcatenationIf ,Day05ConcatenationIf classes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day05IfStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day04Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day04Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day05ConcatenationIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day05ConcatenationIf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,16 +45,9 @@
       <recent name="C:\Users\CEM\IdeaProjects\spring2022Java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day05ModulusConcatenationIf">
+  <component name="RunManager" selected="Application.Day05IfStatement">
     <configuration name="Day04Operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day04Operations" />
-      <module name="spring2022Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day04Scanner02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04Scanner02" />
       <module name="spring2022Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,6 +67,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day05IfStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day05IfStatement" />
+      <module name="spring2022Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Day05ModulusConcatenationIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day05ModulusConcatenationIf" />
       <module name="spring2022Java" />
@@ -84,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day05IfStatement" />
         <item itemvalue="Application.Day05ModulusConcatenationIf" />
         <item itemvalue="Application.Day04Operations" />
         <item itemvalue="Application.Day04Scanner04" />
         <item itemvalue="Application.Day04Scanner03" />
-        <item itemvalue="Application.Day04Scanner02" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652977881503</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Create Day05ModulusConcatenationIf ,Day05ConcatenationIf classes">
+      <created>1652988372928</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652988372928</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +174,7 @@
     <MESSAGE value="Create Day04Scanner01, Day04Scanner02 and Day04Scanner03" />
     <MESSAGE value="Create Day04Scanner04" />
     <MESSAGE value="Create Day04Operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Day04Operations" />
+    <MESSAGE value="Create Day05ModulusConcatenationIf ,Day05ConcatenationIf classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Day05ModulusConcatenationIf ,Day05ConcatenationIf classes" />
   </component>
 </project>
