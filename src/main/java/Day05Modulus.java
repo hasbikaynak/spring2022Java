@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day05ModulusConcatenationIf {
+public class Day05Modulus {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

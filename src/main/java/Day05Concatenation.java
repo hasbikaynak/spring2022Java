@@ -1,4 +1,4 @@
-public class Day05ConcatenationIf {
+public class Day05Concatenation {
     public static void main(String[] args) {
     /*
         Concatenation: Joining Strings with each other or with other data types
@@ -15,5 +15,6 @@ public class Day05ConcatenationIf {
 
         System.out.println(s + " " + t);
         System.out.println(s.concat(" ").concat(t));
+        System.out.println(s + i + k); // Tom125 ==> concatenation
     }
 }

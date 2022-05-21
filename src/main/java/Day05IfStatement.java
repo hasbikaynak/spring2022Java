@@ -1,3 +1,5 @@
+import org.jetbrains.annotations.NotNull;
+
 import java.util.Scanner;
 
 public class Day05IfStatement {
@@ -9,34 +11,37 @@ public class Day05IfStatement {
             }
 
             Note: We use "if statement" to decide which code will be executed under which condition
+*/
 
+                  Scanner scanner = new Scanner(System.in);
 
-        Scanner scanner = new Scanner(System.in);
-         System.out.println("Please enter your score");
-         double score = scanner.nextDouble();
+       System.out.println("Please enter your score");
+        double score = scanner.nextDouble();
 
-        if(score < 50.0)  {System.out.println("You failed");} else System.out.println("You passed");
+        String result = (score < 50.0) ? "You failed" : "You passed";
+
+        System.out.println(result);
+
 
 
         //Type code to check if the integer got from user is divided by 3 or not
         System.out.println("Please enter a integer value");
        int integerValue = scanner.nextInt();
 
-        if (integerValue %3==0 ) {System.out.println("Dividable by 3");}else {System.out.println("Not dividable by 3");}
+        String res =  (integerValue %3==0 ) ? "Dividable by 3" : "Not dividable by 3";
+
+        System.out.println(res);
 
 
         //Type code to check if the first digit of a 3 digits integer is less than 5.
         //If it is less than 5 print 'perfect number' otherwise print 'good number'
 
-        if (integerValue/100 < 5) {
-            System.out.println("Perfect number");
-        }
-        else{
-            System.out.println("Good number");
-        }
-*/
+        String result1 = (integerValue/100 < 5) ? "Perfect number" : "Good number";
+
+        System.out.println(result1);
+
+
         //Ask user to enter the initial of the day names then print the day names on the console
-        Scanner scanner = new Scanner(System.in);
 
         System.out.println("Please enter the initial of a day name");
 
@@ -45,7 +50,7 @@ public class Day05IfStatement {
        returnTheDayName(day);
     }
 
-    public static void returnTheDayName(String day)
+    public static void returnTheDayName(@NotNull String day)
     {
 
         if(day.equals("S")){
@@ -63,5 +68,9 @@ public class Day05IfStatement {
         else if (day.equals("F")) {
             System.out.println("Friday");
         }
+
+
+
+
     }
 }
