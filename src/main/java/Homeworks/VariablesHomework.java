@@ -1,3 +1,5 @@
+package Homeworks;
+
 import java.util.Scanner;
 
 public class VariablesHomework {

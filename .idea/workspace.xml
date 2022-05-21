@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Create Homework task classes and rename the Day05ConcatenationIf.java to Day05Concatenation">
-      <change afterPath="$PROJECT_DIR$/src/main/java/VariablesHomework.java" afterDir="false" />
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="homework tasks has been done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day06IfElseStatement01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day06IfElseStatement02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day06NestedIfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day06NestedIfStatement02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day06NestedTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day06Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/InterviewQuestion01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TypeCastingHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TypeCastingHomework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/WrapperClassHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WrapperClassHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TypeCastingHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homeworks/TypeCastingHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VariablesHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homeworks/VariablesHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WrapperClassHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homeworks/WrapperClassHomework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +46,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/CEM/IdeaProjects/spring2022Java/src/main/java"
+    "last_opened_file_path": "C:/Users/CEM/IdeaProjects/spring2022Java/src/main/java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -47,37 +55,37 @@
       <recent name="C:\Users\CEM\IdeaProjects\spring2022Java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VariablesHomework">
-    <configuration name="Day05Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day05Concatenation" />
+  <component name="RunManager" selected="Application.Day06NestedTernary">
+    <configuration name="Day06NestedIfStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day06NestedIfStatement" />
       <module name="spring2022Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day05IfStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day05IfStatement" />
+    <configuration name="Day06NestedIfStatement02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day06NestedIfStatement02" />
       <module name="spring2022Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCastingHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypeCastingHomework" />
+    <configuration name="Day06NestedTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day06NestedTernary" />
       <module name="spring2022Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablesHomework" />
+    <configuration name="Day06Ternary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day06Ternary" />
       <module name="spring2022Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperClassHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WrapperClassHomework" />
+    <configuration name="InterviewQuestions.InterviewQuestion01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.InterviewQuestion01" />
       <module name="spring2022Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VariablesHomework" />
-        <item itemvalue="Application.WrapperClassHomework" />
-        <item itemvalue="Application.TypeCastingHomework" />
-        <item itemvalue="Application.Day05IfStatement" />
-        <item itemvalue="Application.Day05Concatenation" />
+        <item itemvalue="Application.Day06NestedTernary" />
+        <item itemvalue="Application.Day06Ternary" />
+        <item itemvalue="Application.InterviewQuestions.InterviewQuestion01" />
+        <item itemvalue="Application.Day06NestedIfStatement02" />
+        <item itemvalue="Application.Day06NestedIfStatement" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653121337906</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="homework tasks has been done">
+      <created>1653140621082</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653140621082</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +208,7 @@
     <MESSAGE value="Create Day05ModulusConcatenationIf ,Day05ConcatenationIf classes" />
     <MESSAGE value="Create Day05IfStatement class" />
     <MESSAGE value="Create Homework task classes and rename the Day05ConcatenationIf.java to Day05Concatenation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Homework task classes and rename the Day05ConcatenationIf.java to Day05Concatenation" />
+    <MESSAGE value="homework tasks has been done" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework tasks has been done" />
   </component>
 </project>

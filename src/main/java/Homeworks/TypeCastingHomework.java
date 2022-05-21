@@ -1,3 +1,5 @@
+package Homeworks;
+
 public class TypeCastingHomework {
     public static void main(String[] args) {
         /*

@@ -1,3 +1,5 @@
+package Homeworks;
+
 public class WrapperClassHomework {
     /*
     1) Type code to find the sum of the minimum value of the byte and the maximum of short data types.
