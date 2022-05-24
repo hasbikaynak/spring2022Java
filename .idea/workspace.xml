@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Day 6 has been done and coded">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homeworks/IfStatementHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homeworks/TernaryHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q06.java" afterDir="false" />
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Practical questions has been solved, If and Ternary statements for homework has been done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day07StringManipulations01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day07Switch01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day07Switch02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day07Switch03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day07Switch04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,52 +50,34 @@
       <recent name="C:\Users\CEM\IdeaProjects\spring2022Java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TernaryHomework">
+  <component name="RunManager" selected="Application.Day07Switch04">
+    <configuration name="Day07Switch01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day07Switch01" />
+      <module name="spring2022Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day07Switch02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day07Switch02" />
+      <module name="spring2022Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day07Switch04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day07Switch04" />
+      <module name="spring2022Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IfStatementHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homeworks.IfStatementHomework" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Homeworks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQuestions.Q04" />
-      <module name="spring2022Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQuestions.Q05" />
-      <module name="spring2022Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQuestions.Q06" />
-      <module name="spring2022Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day07Switch04" />
+        <item itemvalue="Application.Day07Switch02" />
+        <item itemvalue="Application.Day07Switch01" />
         <item itemvalue="Application.TernaryHomework" />
         <item itemvalue="Application.IfStatementHomework" />
-        <item itemvalue="Application.Q06" />
-        <item itemvalue="Application.Q05" />
-        <item itemvalue="Application.Q04" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653164862244</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Practical questions has been solved, If and Ternary statements for homework has been done">
+      <created>1653328088422</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653328088422</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +231,7 @@
     <MESSAGE value="Create Homework task classes and rename the Day05ConcatenationIf.java to Day05Concatenation" />
     <MESSAGE value="homework tasks has been done" />
     <MESSAGE value="Day 6 has been done and coded" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 6 has been done and coded" />
+    <MESSAGE value="Practical questions has been solved, If and Ternary statements for homework has been done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practical questions has been solved, If and Ternary statements for homework has been done" />
   </component>
 </project>
