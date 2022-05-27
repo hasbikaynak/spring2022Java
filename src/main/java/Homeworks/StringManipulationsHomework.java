@@ -167,6 +167,49 @@ Example: For ‘ Ali ’ your code should print false on the console
 //
 //        System.out.println(isThereAnySpaceAtLastOrInTheBeginning);
 
+/*
+Type code to check if a String has an uppercase initial and dot at the end.
+Example: For ‘Ali’ your code should print false on the console
+ For ‘ali.’ your code should print false on the console
+ For ‘ Ali. ’ your code should print false on the console
+ For ‘Ali.’ your code should print true on the console
+ For ‘ALI.’ your code should print true on the console
+* */
+
+//        String s = "Tom Hanks.";
+//        char firstChar = s.trim().charAt(0);
+//        char lastChar = s.charAt(s.length() - 1);
+//
+//        boolean isTheFirstCharUpper =firstChar >='A'&& firstChar<='Z';
+//        boolean isTheLastCharDot = lastChar == '.';
+//
+//        boolean isFirstUpperLastDot = isTheFirstCharUpper && isTheLastCharDot;
+//
+//        System.out.println(isFirstUpperLastDot);
+
+
+        /*Type code to check if a password is valid or not for the following conditions;
+Password must have at least 8 characters different from space character
+Password must have at least 1 symbol
+Example: For ‘A2b!’ your code should print false on the console
+ For ‘A2b3cdef’ your code should print false on the console
+ For ‘!1a23b4’ your code should print false on the console
+ For ‘!1a23b4?es’ your code should print true on the console
+ For ‘! a b 3 k’ your code should print false on the console
+        * */
+
+
+
+//        String s = "ASDasdasdads!";
+//         boolean isDifferentFromSpaceAnd8long =  !s.contains(" ") && s.length() >= 8;
+//
+//         boolean isHaveAtLeast1Symbol = s.replaceAll("[^\\p{Punct}]","").length() >= 1;
+//
+//         boolean isDifferentFromSpaceAnd8longAndIsHaveAtLeast1Symbol = isDifferentFromSpaceAnd8long && isHaveAtLeast1Symbol;
+//
+//
+//        System.out.println(isDifferentFromSpaceAnd8longAndIsHaveAtLeast1Symbol);
+
 
 
 

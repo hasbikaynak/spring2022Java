@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Day 09 has been completed">
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Day 09 review has been completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day09StringManipulationsReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day09StringManipulationsReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/StringManipulationsHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homeworks/StringManipulationsHomework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,14 +49,7 @@
       <recent name="C:\Users\CEM\IdeaProjects\spring2022Java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day09StringManipulationsReview">
-    <configuration name="Day09StringManipulations01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day09StringManipulations01" />
-      <module name="spring2022Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringManipulationsHomework">
     <configuration name="Day09StringManipulations02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day09StringManipulations02" />
       <module name="spring2022Java" />
@@ -85,13 +78,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringManipulationsHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homeworks.StringManipulationsHomework" />
+      <module name="spring2022Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homeworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringManipulationsHomework" />
         <item itemvalue="Application.Day09StringManipulationsReview" />
         <item itemvalue="Application.Day09StringManipulations04" />
         <item itemvalue="Application.Day09StringManipulations03" />
         <item itemvalue="Application.Day09StringManipulations02" />
-        <item itemvalue="Application.Day09StringManipulations01" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653530226215</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Day 09 review has been completed">
+      <created>1653648524751</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1653648524751</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,7 +256,8 @@
     <MESSAGE value="Day 07 has been completed" />
     <MESSAGE value="Day 08 has been completed" />
     <MESSAGE value="Day 09 has been completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 09 has been completed" />
+    <MESSAGE value="Day 09 review has been completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 09 review has been completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
