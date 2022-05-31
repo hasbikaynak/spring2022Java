@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="StringManipulationsHomework has been done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day10ForLoop01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day10ForLoop02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day10ForLoop03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day10ForLoop04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day10ForLoop05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day10ForLoop06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day10StringManipulations01.java" afterDir="false" />
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Day10 has been done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day10ForLoopReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/InterviewQuestion02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/InterviewQuestion03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/InterviewQuestion04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/InterviewQuestion05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,49 +59,73 @@
       <recent name="C:\Users\CEM\IdeaProjects\spring2022Java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day10ForLoop06">
-    <configuration name="Day10ForLoop02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10ForLoop02" />
+  <component name="RunManager" selected="Application.Day10ForLoopReview">
+    <configuration name="Day10ForLoopReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10ForLoopReview" />
       <module name="spring2022Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day10ForLoop03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10ForLoop03" />
+    <configuration name="InterviewQuestion05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.InterviewQuestion05" />
       <module name="spring2022Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day10ForLoop04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10ForLoop04" />
+    <configuration name="Q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeQuestions.Q10" />
       <module name="spring2022Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day10ForLoop05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10ForLoop05" />
+    <configuration name="Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeQuestions.Q11" />
       <module name="spring2022Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day10ForLoop06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10ForLoop06" />
+    <configuration name="Q12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeQuestions.Q12" />
       <module name="spring2022Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day10ForLoop06" />
-        <item itemvalue="Application.Day10ForLoop05" />
-        <item itemvalue="Application.Day10ForLoop04" />
-        <item itemvalue="Application.Day10ForLoop03" />
-        <item itemvalue="Application.Day10ForLoop02" />
+        <item itemvalue="Application.Day10ForLoopReview" />
+        <item itemvalue="Application.InterviewQuestion05" />
+        <item itemvalue="Application.Q12" />
+        <item itemvalue="Application.Q11" />
+        <item itemvalue="Application.Q10" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653684851791</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Day10 has been done">
+      <created>1653821280218</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1653821280218</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,7 +300,8 @@
     <MESSAGE value="Day 09 has been completed" />
     <MESSAGE value="Day 09 review has been completed" />
     <MESSAGE value="StringManipulationsHomework has been done" />
-    <option name="LAST_COMMIT_MESSAGE" value="StringManipulationsHomework has been done" />
+    <MESSAGE value="Day10 has been done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day10 has been done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
