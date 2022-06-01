@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="ForLoopHomework has been done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day11DoWhileLoop01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day11ForLoop01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day11WhileLoop01.java" afterDir="false" />
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Day11 has been done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/ForLoopHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homeworks/ForLoopHomework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,7 @@
       <recent name="C:\Users\CEM\IdeaProjects\spring2022Java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day11DoWhileLoop01">
+  <component name="RunManager" selected="Application.ForLoopHomework">
     <configuration name="Day10ForLoopReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day10ForLoopReview" />
       <module name="spring2022Java" />
@@ -95,10 +93,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoopHomework" />
         <item itemvalue="Application.Day11DoWhileLoop01" />
         <item itemvalue="Application.Day11WhileLoop01" />
         <item itemvalue="Application.Day11ForLoop01" />
-        <item itemvalue="Application.ForLoopHomework" />
         <item itemvalue="Application.Day10ForLoopReview" />
       </list>
     </recent_temporary>
@@ -245,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654038658195</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Day11 has been done">
+      <created>1654048238187</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1654048238187</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,7 +296,8 @@
     <MESSAGE value="Day10 has been done" />
     <MESSAGE value="Day10 review has been done" />
     <MESSAGE value="ForLoopHomework has been done" />
-    <option name="LAST_COMMIT_MESSAGE" value="ForLoopHomework has been done" />
+    <MESSAGE value="Day11 has been done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day11 has been done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
