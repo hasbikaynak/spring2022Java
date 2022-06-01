@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Day10 review has been done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Homeworks/ForLoopHomework.java" afterDir="false" />
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="ForLoopHomework has been done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day11DoWhileLoop01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day11ForLoop01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day11WhileLoop01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +51,30 @@
       <recent name="C:\Users\CEM\IdeaProjects\spring2022Java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForLoopHomework">
+  <component name="RunManager" selected="Application.Day11DoWhileLoop01">
     <configuration name="Day10ForLoopReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day10ForLoopReview" />
+      <module name="spring2022Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day11DoWhileLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day11DoWhileLoop01" />
+      <module name="spring2022Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day11ForLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day11ForLoop01" />
+      <module name="spring2022Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day11WhileLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day11WhileLoop01" />
       <module name="spring2022Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,52 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterviewQuestion05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.InterviewQuestion05" />
-      <module name="spring2022Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQuestions.Q11" />
-      <module name="spring2022Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQuestions.Q12" />
-      <module name="spring2022Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day11DoWhileLoop01" />
+        <item itemvalue="Application.Day11WhileLoop01" />
+        <item itemvalue="Application.Day11ForLoop01" />
         <item itemvalue="Application.ForLoopHomework" />
         <item itemvalue="Application.Day10ForLoopReview" />
-        <item itemvalue="Application.InterviewQuestion05" />
-        <item itemvalue="Application.Q12" />
-        <item itemvalue="Application.Q11" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653991231629</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="ForLoopHomework has been done">
+      <created>1654038658194</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1654038658195</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -299,7 +290,8 @@
     <MESSAGE value="StringManipulationsHomework has been done" />
     <MESSAGE value="Day10 has been done" />
     <MESSAGE value="Day10 review has been done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day10 review has been done" />
+    <MESSAGE value="ForLoopHomework has been done" />
+    <option name="LAST_COMMIT_MESSAGE" value="ForLoopHomework has been done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
