@@ -223,11 +223,69 @@ A X X X X X X A
 
 
 
-     //TODO Question 16
+     //Type all characters before the first occurrence of 'm' in a String
+
+//        String s = "Number";
+//
+//        String container = "";
+//        for (int i = 0; i < s.length(); i++) {
+//            char c = s.charAt(i);
+//            container+=c;
+//            if (c == 'm') {
+//                break;
+//            }
+//        }
+//        System.out.print(container);
+
+//        Find the total number of characters different from space and punctuation marks in a String
+
+//        String s = "Java is a strongly typed, object-oriented programming language.";
+//
+//        String sWithoutSpaceAndPunctuationMarks = s.replaceAll("\\s","").replaceAll("\\p{Punct}",""); // Javaisastronglytypedobkectorientedprogramminlanguage
+//
+//        System.out.println(sWithoutSpaceAndPunctuationMarks.length());
+
+//        Type code to draw the following image by using a for loop.
+//        * * * * * *
+//        * * * * *
+//        * * * *
+//        * * *
+//        * *
+//        *
 
 
 
+//        int row = 6;
+//        String s = "";
+//
+//        for (int i = 1; i <=row ; i++) {
+//            for (int j = row; j >=i ; j--) {
+//                s+="* ";
+//            }
+//            System.out.println(s);
+//            s="";
+//        }
 
+        /*
+        * Type code to find the sum of the unique digits of an integer
+Example: 12133455 Ş 2+4=6
+* */
+//        int i = 12133455;
+//
+//        String sI = String.valueOf(i); // 12133455
+//
+//        int s = 0;
+//        for (int j = 0; j < sI.length(); j++) {
+//            String c = sI.substring(j,j+1);
+//            if (sI.indexOf(c) == sI.lastIndexOf(c)) {
+//                s+= Integer.valueOf(c);
+//            }
+//        }
+//
+//        System.out.println(s);
+
+
+        //TODO 23
 
 
 

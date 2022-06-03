@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="Day11 has been done">
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="ForLoopHomework has been proceeded">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day12Arrays01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day13ArraysReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/InterviewQuestion06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day11DoWhileLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day11DoWhileLoop01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/ForLoopHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homeworks/ForLoopHomework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +33,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="29Hh6vnagXfEBluiErQBq5Btjta" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,14 +60,7 @@
       <recent name="C:\Users\CEM\IdeaProjects\spring2022Java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForLoopHomework">
-    <configuration name="Day10ForLoopReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day10ForLoopReview" />
-      <module name="spring2022Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day13ArraysReview">
     <configuration name="Day11DoWhileLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day11DoWhileLoop01" />
       <module name="spring2022Java" />
@@ -64,15 +68,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day11ForLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day11ForLoop01" />
+    <configuration name="Day12Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day12Arrays01" />
       <module name="spring2022Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day11WhileLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day11WhileLoop01" />
+    <configuration name="Day13ArraysReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day13ArraysReview" />
       <module name="spring2022Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InterviewQuestion06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.InterviewQuestion06" />
+      <module name="spring2022Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day13ArraysReview" />
+        <item itemvalue="Application.InterviewQuestion06" />
+        <item itemvalue="Application.Day12Arrays01" />
         <item itemvalue="Application.ForLoopHomework" />
         <item itemvalue="Application.Day11DoWhileLoop01" />
-        <item itemvalue="Application.Day11WhileLoop01" />
-        <item itemvalue="Application.Day11ForLoop01" />
-        <item itemvalue="Application.Day10ForLoopReview" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654048238187</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="ForLoopHomework has been proceeded">
+      <created>1654123580637</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1654123580637</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,7 +321,8 @@
     <MESSAGE value="Day10 review has been done" />
     <MESSAGE value="ForLoopHomework has been done" />
     <MESSAGE value="Day11 has been done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day11 has been done" />
+    <MESSAGE value="ForLoopHomework has been proceeded" />
+    <option name="LAST_COMMIT_MESSAGE" value="ForLoopHomework has been proceeded" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
