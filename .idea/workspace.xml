@@ -4,13 +4,85 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="ForLoopHomework has been proceeded">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day12Arrays01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day13ArraysReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InterviewQuestions/InterviewQuestion06.java" afterDir="false" />
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="day13 and day13 review has been done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14/Day14ForEachLoop01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14/Day14MultiDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day14/Day14Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview_questions/InterviewQuestion07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week03/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week03/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week03/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week03/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week03/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week03/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week03/Week03Review.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day11DoWhileLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day11DoWhileLoop01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/ForLoopHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homeworks/ForLoopHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day02MethodCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day02/Day02MethodCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day02Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day02/Day02Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day03DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day03/Day03DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day03ObjectCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day03/Day03ObjectCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day04Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day04/Day04Operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day04Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day04/Day04Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day04Scanner02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day04/Day04Scanner02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day04Scanner03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day04/Day04Scanner03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day04Scanner04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day04/Day04Scanner04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day05Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day05/Day05Concatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day05IfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day05/Day05IfStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day05Modulus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day05/Day05Modulus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day06IfElseStatement01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day06/Day06IfElseStatement01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day06IfElseStatement02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day06/Day06IfElseStatement02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day06NestedIfStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day06/Day06NestedIfStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day06NestedIfStatement02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day06/Day06NestedIfStatement02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day06NestedTernary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day06/Day06NestedTernary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day06Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day06/Day06Ternary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day07Switch01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07/Day07Switch01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day07Switch02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07/Day07Switch02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day07Switch03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07/Day07Switch03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day07Switch04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day07/Day07Switch04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day08StringManipulations01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day08/Day08StringManipulations01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day09StringManipulations01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day09/Day09StringManipulations01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day09StringManipulations02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day09/Day09StringManipulations02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day09StringManipulations03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day09/Day09StringManipulations03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day09StringManipulations04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day09/Day09StringManipulations04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day09StringManipulationsReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day09/Day09StringManipulationsReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day10ForLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day10/Day10ForLoop01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day10ForLoop02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day10/Day10ForLoop02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day10ForLoop03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day10/Day10ForLoop03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day10ForLoop04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day10/Day10ForLoop04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day10ForLoop05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day10/Day10ForLoop05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day10ForLoop06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day10/Day10ForLoop06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day10ForLoopReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day10/Day10ForLoopReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day10StringManipulations01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day10/Day10StringManipulations01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day11DoWhileLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day11/Day11DoWhileLoop01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day11ForLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day11/Day11ForLoop01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day11WhileLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day11/Day11WhileLoop01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day12Arrays01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day12/Day12Arrays01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day13ArraysReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day13/Day13ArraysReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/ForLoopHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworks/ForLoopHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/IfStatementHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworks/IfStatementHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/StringManipulationsHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworks/StringManipulationsHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/TernaryHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworks/TernaryHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/TypeCastingHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworks/TypeCastingHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/VariablesHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworks/VariablesHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homeworks/WrapperClassHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworks/WrapperClassHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestions/InterviewQuestion01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview_questions/InterviewQuestion01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestions/InterviewQuestion02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview_questions/InterviewQuestion02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestions/InterviewQuestion03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview_questions/InterviewQuestion03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestions/InterviewQuestion04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview_questions/InterviewQuestion04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestions/InterviewQuestion05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview_questions/InterviewQuestion05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InterviewQuestions/InterviewQuestion06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview_questions/InterviewQuestion06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week01/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week01/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week01/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week01/Q04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week01/Q05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week01/Q06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week02/Q01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week02/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week02/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week02/Q04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week02/Q05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PracticeQuestions/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week02/Q06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,34 +132,13 @@
       <recent name="C:\Users\CEM\IdeaProjects\spring2022Java\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day13ArraysReview">
-    <configuration name="Day11DoWhileLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day11DoWhileLoop01" />
-      <module name="spring2022Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day12Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day12Arrays01" />
-      <module name="spring2022Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day13ArraysReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day13ArraysReview" />
-      <module name="spring2022Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForLoopHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homeworks.ForLoopHomework" />
+  <component name="RunManager" selected="Application.Week03Review">
+    <configuration name="Day14Review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.Day14Review" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homeworks.*" />
+          <option name="PATTERN" value="day14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +146,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterviewQuestion06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.InterviewQuestion06" />
+    <configuration name="Q05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week03.Q05" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="PATTERN" value="week03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week03.Q06" />
+      <module name="spring2022Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week03Review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.week03.Week03Review" />
+      <module name="spring2022Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_questions.week03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice_questions.week03.Q05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.week03.Q05" />
+      <module name="spring2022Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_questions.week03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day13ArraysReview" />
-        <item itemvalue="Application.InterviewQuestion06" />
-        <item itemvalue="Application.Day12Arrays01" />
-        <item itemvalue="Application.ForLoopHomework" />
-        <item itemvalue="Application.Day11DoWhileLoop01" />
+        <item itemvalue="Application.Week03Review" />
+        <item itemvalue="Application.practice_questions.week03.Q05" />
+        <item itemvalue="Application.Day14Review" />
+        <item itemvalue="Application.Q06" />
+        <item itemvalue="Application.Q05" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654123580637</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="day13 and day13 review has been done">
+      <created>1654259301431</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1654259301431</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,7 +419,8 @@
     <MESSAGE value="ForLoopHomework has been done" />
     <MESSAGE value="Day11 has been done" />
     <MESSAGE value="ForLoopHomework has been proceeded" />
-    <option name="LAST_COMMIT_MESSAGE" value="ForLoopHomework has been proceeded" />
+    <MESSAGE value="day13 and day13 review has been done" />
+    <option name="LAST_COMMIT_MESSAGE" value="day13 and day13 review has been done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
