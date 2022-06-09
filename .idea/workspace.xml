@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="day14 and day14 review has been done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day15/ArrayLists01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day15/Day15Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day15/MultiDimensionalArray01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/ArrayHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week04/MultidimensialArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week04/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week04/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week04/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week04/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week04/Q05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week04/Q06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week04/Q07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week04/Q08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week04/Week04Review.java" afterDir="false" />
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="day15 and day15 review has been done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/day16/ArrayLists02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/day15/ArrayLists01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day16/ArrayLists01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,14 +56,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\CEM\IdeaProjects\spring2022Java\src\main\java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day16" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Day15Review">
-    <configuration name="ArrayHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.ArrayHomework" />
+  <component name="RunManager" selected="Application.ArrayLists02">
+    <configuration name="ArrayLists01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16.ArrayLists01" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.*" />
+          <option name="PATTERN" value="day16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,25 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day15Review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day15.Day15Review" />
+    <configuration name="ArrayLists02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day16.ArrayLists02" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiDimensionalArray01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day15.MultiDimensionalArray01" />
-      <module name="spring2022Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day15.*" />
+          <option name="PATTERN" value="day16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week04Review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_questions.week04.Week04Review" />
+    <configuration name="day15.Day15Review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15.Day15Review" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_questions.week04.*" />
+          <option name="PATTERN" value="day16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day15.MultiDimensionalArray01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day15.MultiDimensionalArray01" />
+      <module name="spring2022Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day15Review" />
-        <item itemvalue="Application.MultiDimensionalArray01" />
+        <item itemvalue="Application.ArrayLists02" />
+        <item itemvalue="Application.ArrayLists01" />
+        <item itemvalue="Application.day15.Day15Review" />
+        <item itemvalue="Application.day15.MultiDimensionalArray01" />
         <item itemvalue="Application.MultidimensialArray" />
-        <item itemvalue="Application.ArrayHomework" />
-        <item itemvalue="Application.Week04Review" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654540866852</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="day15 and day15 review has been done">
+      <created>1654688657791</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1654688657791</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -365,7 +363,8 @@
     <MESSAGE value="ForLoopHomework has been proceeded" />
     <MESSAGE value="day13 and day13 review has been done" />
     <MESSAGE value="day14 and day14 review has been done" />
-    <option name="LAST_COMMIT_MESSAGE" value="day14 and day14 review has been done" />
+    <MESSAGE value="day15 and day15 review has been done" />
+    <option name="LAST_COMMIT_MESSAGE" value="day15 and day15 review has been done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
