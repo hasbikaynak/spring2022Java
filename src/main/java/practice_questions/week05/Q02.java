@@ -1,4 +1,4 @@
-package week05;
+package practice_questions.week05;
 
 public class Q02 {
     //Create a method to print "Mark" on console by picking the characters from the "alphabet string".

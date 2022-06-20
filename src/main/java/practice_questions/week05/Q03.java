@@ -1,4 +1,4 @@
-package week05;
+package practice_questions.week05;
 
 import java.util.Arrays;
 import java.util.Scanner;

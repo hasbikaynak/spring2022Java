@@ -4,25 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="day16 has been done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day16/Day16Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day17/ArrayLists01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day17/Day17Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day17/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day17/StaticKeyword01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day17/StaticKeyword02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day17/StaticKeyword03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/ListsHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/MentoringHomework01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview_questions/InterviewQuestion08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/Budget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/Q05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/week05/Runner.java" afterDir="false" />
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="day17, Day17Review, Homeworks has been done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/day18/PassByValuePassByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day18/VarArgs01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day19/StringBuilder01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20/Overloading01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20/StringBuffer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20/StudentRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20/VehicleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day20/Vehicles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/MentoringHomework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview_questions/InterviewQuestion09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview_questions/InterviewQuestion10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week05/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week05/Q07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week05/Q08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week05/Q09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week05/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week05/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week05/Q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week06/PracticeSessionNT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week07/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week07/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week07/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week07/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week07/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week07/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week07/Week07Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question_bank2/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question_bank2/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question_bank2/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question_bank2/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question_bank2/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question_bank2/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question_bank2/Q07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question_bank2/Q08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question_bank2/Q09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homeworks/ArrayHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homeworks/ArrayHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week05/Budget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week05/Budget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week05/Q02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week05/Q02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week05/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week05/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week05/Q04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week05/Q04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week05/Q05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week05/Q05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/week05/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice_questions/week05/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +89,10 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/CEM/IdeaProjects/spring2022Java/src/main/java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -75,13 +103,13 @@
       <recent name="day16" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListsHomework">
-    <configuration name="Day17Review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17.Day17Review" />
+  <component name="RunManager" selected="Application.Week07Review">
+    <configuration name="Q03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.week07.Q03" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17.*" />
+          <option name="PATTERN" value="practice_questions.week07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,25 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListsHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.ListsHomework" />
+    <configuration name="Q04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.week07.Q04" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MentoringHomework01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.MentoringHomework01" />
-      <module name="spring2022Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeworks.*" />
+          <option name="PATTERN" value="practice_questions.week07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +131,11 @@
       </method>
     </configuration>
     <configuration name="Q05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week05.Q05" />
+      <option name="MAIN_CLASS_NAME" value="practice_questions.week07.Q05" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week05.*" />
+          <option name="PATTERN" value="practice_questions.week07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +143,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day17.Runner" />
+    <configuration name="Q06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.week07.Q06" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17.*" />
+          <option name="PATTERN" value="practice_questions.week07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week07Review" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_questions.week07.Week07Review" />
+      <module name="spring2022Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_questions.week07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListsHomework" />
+        <item itemvalue="Application.Week07Review" />
+        <item itemvalue="Application.Q06" />
         <item itemvalue="Application.Q05" />
-        <item itemvalue="Application.MentoringHomework01" />
-        <item itemvalue="Application.Day17Review" />
-        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.Q04" />
+        <item itemvalue="Application.Q03" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654739583493</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="day17, Day17Review, Homeworks has been done">
+      <created>1655147068980</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1655147068980</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -362,7 +397,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create the spring2022Java repo&#10;Create Day01 and Day02 worksheets" />
     <MESSAGE value="Day03DataTypes creation" />
     <MESSAGE value="Create Day04Scanner01, Day04Scanner02 and Day04Scanner03" />
     <MESSAGE value="Create Day04Scanner04" />
@@ -387,7 +421,8 @@
     <MESSAGE value="day14 and day14 review has been done" />
     <MESSAGE value="day15 and day15 review has been done" />
     <MESSAGE value="day16 has been done" />
-    <option name="LAST_COMMIT_MESSAGE" value="day16 has been done" />
+    <MESSAGE value="day17, Day17Review, Homeworks has been done" />
+    <option name="LAST_COMMIT_MESSAGE" value="day17, Day17Review, Homeworks has been done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

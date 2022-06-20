@@ -1,4 +1,4 @@
-package week05;
+package practice_questions.week05;
 
 import java.util.ArrayList;
 import java.util.List;
