@@ -1,7 +1,7 @@
 package homeworks;
 
 import java.util.Arrays;
-import java.util.Scanner;
+
 public class StudentDetails {
     //Student Details Arrays
     private String[] names = {"Tom - 1","Angela - 2","Ramesh - 3","Michelle - 4","Bartek - 5"};
