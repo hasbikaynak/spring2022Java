@@ -1,26 +1,25 @@
 package dev_02;
 
-public class BankInternal {
-    private String accountNumber;
+public class bankInternal {
+    private final String accountNumber;
+    private int counter = 1;
 
     private double initialBalance;
 
-    public BankInternal(String accountNumber, double initialBalance) {
-        this.accountNumber = accountNumber;
+    public bankInternal(double initialBalance) {
+        this.accountNumber = getAccountNumber();
         this.initialBalance = initialBalance;
     }
 
 
     public String getAccountNumber() {
-        return accountNumber;
+        String generateAccountNumber = String.valueOf(Math.random()) + counter++;
+        generateAccountNumber = generateAccountNumber.substring(2,9);
+        return generateAccountNumber;
     }
 
     public double getInitialBalance() {
         return initialBalance;
-    }
-
-    public void setInitialBalance(double initialBalance) {
-        this.initialBalance = initialBalance;
     }
 
     @Override
@@ -31,19 +30,20 @@ public class BankInternal {
                 " }";
     }
 
-
     public void depositMoney(double amount){
-        System.out.println(toString());
+        System.out.println(this);
         this.initialBalance += amount;
         System.out.println("New initial balance after the transaction "+ getInitialBalance()+"\n");
     }
 
     public void withdrawMoney(double amount){
-        System.out.println(toString());
+        System.out.println(this);
         if (amount <= initialBalance) {
             this.initialBalance -= amount;
             System.out.println("New initial balance after the transaction "+ getInitialBalance()+"\n");
         }
-        System.out.println("The amount that you want to withdraw is not sufficient!!!");
+        else {
+            System.out.println("The amount that you want to withdraw is not sufficient!!!");
+        }
     }
 }
