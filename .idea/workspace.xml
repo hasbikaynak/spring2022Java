@@ -4,19 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="day29 has been done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/atm_project/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atm_project/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atm_project/SavingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day30/lambda_functional_programming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31/Courses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31/Functional_Programming01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31/Functional_Programming02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31/Functional_Programming03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31/Functional_Programming04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day31/Utils.java" afterDir="false" />
+    <list default="true" id="d235ba74-a9b2-4e6a-9311-ce1dd93daf4e" name="Changes" comment="day31 has been done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/atm_project/Options.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/atm_project/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview_questions/Importante/Iq01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview_questions/Importante/Iq02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview_questions/Importante/Iq03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview_questions/Importante/Iq04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview_questions/Importante/Iq05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview_questions/Importante/Iq06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interview_questions/Importante/Iq07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day27/HashMap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day27/HashMap01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atm_project/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atm_project/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atm_project/CheckingAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atm_project/SavingAccount.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -74,13 +75,13 @@
       <recent name="day16" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Functional_Programming04">
-    <configuration name="Functional_Programming04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31.Functional_Programming04" />
+  <component name="RunManager" selected="Application.Iq02">
+    <configuration name="Iq02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_questions.Importante.Iq02" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31.*" />
+          <option name="PATTERN" value="interview_questions.Importante.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day31.Functional_Programming01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31.Functional_Programming01" />
+    <configuration name="Iq03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_questions.Importante.Iq03" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31.*" />
+          <option name="PATTERN" value="interview_questions.Importante.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day31.Functional_Programming02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31.Functional_Programming02" />
+    <configuration name="Iq04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_questions.Importante.Iq04" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31.*" />
+          <option name="PATTERN" value="interview_questions.Importante.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="day31.Functional_Programming03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day31.Functional_Programming03" />
+    <configuration name="Iq05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_questions.Importante.Iq05" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day31.*" />
+          <option name="PATTERN" value="interview_questions.Importante.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambda_functional_programming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30.lambda_functional_programming" />
+    <configuration name="Iq06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview_questions.Importante.Iq06" />
       <module name="spring2022Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day30.*" />
+          <option name="PATTERN" value="interview_questions.Importante.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Functional_Programming04" />
-        <item itemvalue="Application.day31.Functional_Programming03" />
-        <item itemvalue="Application.day31.Functional_Programming02" />
-        <item itemvalue="Application.day31.Functional_Programming01" />
-        <item itemvalue="Application.lambda_functional_programming" />
+        <item itemvalue="Application.Iq02" />
+        <item itemvalue="Application.Iq06" />
+        <item itemvalue="Application.Iq05" />
+        <item itemvalue="Application.Iq04" />
+        <item itemvalue="Application.Iq03" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657720025920</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="day31 has been done">
+      <created>1657993868962</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1657993868962</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,7 +404,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create Day05ModulusConcatenationIf ,Day05ConcatenationIf classes" />
     <MESSAGE value="Create Day05IfStatement class" />
     <MESSAGE value="Create Homework task classes and rename the Day05ConcatenationIf.java to Day05Concatenation" />
     <MESSAGE value="homework tasks has been done" />
@@ -421,7 +428,8 @@
     <MESSAGE value="StudentDetails program has been done" />
     <MESSAGE value="day25 has been done" />
     <MESSAGE value="day29 has been done" />
-    <option name="LAST_COMMIT_MESSAGE" value="day29 has been done" />
+    <MESSAGE value="day31 has been done" />
+    <option name="LAST_COMMIT_MESSAGE" value="day31 has been done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
